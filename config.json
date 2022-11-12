@@ -3,5 +3,8 @@
     "parameters": {},
     "description": "TOWM youtube video #4. Expolaration of different data formats.",
     "algorithm-name": "TOWM youtube video #4",
-    "algorithm-version": "1.0"
+    "algorithm-version": "1.0",
+    "cloud-id": 13248471,
+    "organization-id": "85612f754e3e252e173eb7eebd7cd9be",
+    "local-id": 349194361
 }
